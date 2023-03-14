@@ -2,7 +2,8 @@
 This repository contains a collection of custom scripts for the Unity game engine, designed to help improve your workflow when developing Unity projects.
 
 ## Installation
-To use these scripts in your own Unity projects, simply copy the desired scripts into your project's Assets/Editor folder.
+- To use these scripts in your own Unity projects, simply copy the desired scripts into your project's Assets/Editor folder.
+- If several scripts are in the same folder then most likely you'll need both for the tool to work
 
 ## Features
 This repository includes a variety of custom scripts designed to streamline various tasks and improve your workflow when working with Unity projects. Some of the scripts included in this repository include:
